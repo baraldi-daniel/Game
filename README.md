@@ -4,4 +4,4 @@
 
 ##You can play directly at https://replit.com/@DanielBaraldi/Truco-Paulista-Simplified?v=1#main.py
 
-![image](https://user-images.githubusercontent.com/108779870/179658696-9d4e53a0-6bd9-42f9-ae04-14822ec307d6.png)
+![image](https://user-images.githubusercontent.com/108779870/179658751-4ecde3ba-e9b5-400b-893a-be70ce88cc69.png)
